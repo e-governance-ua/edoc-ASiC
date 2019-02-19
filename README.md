@@ -1,4 +1,4 @@
-# edoc-ASiC container for test only
+# ASiC container for test only
 Підписаний контейнер
 
 Використовувася ключ https://github.com/esig/dss/tree/5.4.x/dss-cookbook/src/main/resources/user_a_rsa.p12
